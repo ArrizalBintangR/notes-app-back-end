@@ -1,8 +1,8 @@
 const {
-  addNoteHandler, 
-  getAllNotesHandler, 
-  getNoteByIdHandler, 
-  editNoteByIdHandler, 
+  addNoteHandler,
+  getAllNotesHandler,
+  getNoteByIdHandler,
+  editNoteByIdHandler,
   deleteNoteByIdHandler,
 } = require('./handler');
 
